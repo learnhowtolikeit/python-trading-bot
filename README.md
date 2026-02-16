@@ -42,3 +42,4 @@ The bot uses a "Council of Elders" approach, requiring three distinct indicators
 
 ---
 *Disclaimer: This software is for educational purposes only. It is a "Paper Trading" simulation and should not be used for real financial transactions without professional financial advice.*
+*Created by learnhowtolikeit*
